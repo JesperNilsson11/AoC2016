@@ -1,0 +1,4 @@
+﻿  day10.cpp
+C:\Projects\AdventofCode2016\AdventofCode2016\day10.cpp(29,22): warning C4018: '<': signed/unsigned mismatch
+C:\Projects\AdventofCode2016\AdventofCode2016\day10.cpp(113,9): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  AdventofCode2016.vcxproj -> C:\Projects\AdventofCode2016\Debug\AdventofCode2016.exe

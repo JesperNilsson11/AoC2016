@@ -1,5 +1,16 @@
 # Prerequisites
 *.d
+*.txt
+.gitattributes
+.vscode/*
+.vs/*
+AdventofCode2016/Debug/*
+AdventofCode2016/Release/*
+AdventofCode2016.sln
+AdventofCode2016/AdventofCode2016.*
+Debug/*
+Release/*
+
 
 # Compiled Object files
 *.slo
